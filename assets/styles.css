@@ -79,6 +79,17 @@ body {
   margin-right: 5px;
 }
 
+.days {
+  display: flex;
+  align-items: center;
+  color: var(--soft-blue);
+  font-size: 14px;
+}
+
+.days img {
+  margin-right: 5px;
+}
+
 .attribution a { 
   color: hsl(228, 45%, 44%); 
 }

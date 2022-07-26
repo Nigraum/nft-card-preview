@@ -24,6 +24,13 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
+.container {
+  background-color: var(--card-bg);
+  border-radius: 15px;
+  width: 275px;
+  padding: 1.5rem;
+}
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 

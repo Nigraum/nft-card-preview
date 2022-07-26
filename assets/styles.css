@@ -54,11 +54,6 @@ body {
   font-weight: 300;
 }
 
-.attribution { 
-  font-size: 11px; 
-  text-align: center; 
-}
-
 .price-days {
   display: flex;
   justify-content: space-between;
@@ -88,6 +83,30 @@ body {
 
 .days img {
   margin-right: 5px;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: var(--soft-blue);
+}
+
+.author img {
+  border: 1px solid var(--white);
+  border-radius: 50px;
+  width: 30px;
+  margin-right: 1rem;
+}
+
+span {
+  color: var(--white);
+  margin-left: 5px;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
 }
 
 .attribution a { 

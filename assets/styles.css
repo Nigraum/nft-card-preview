@@ -59,6 +59,26 @@ body {
   text-align: center; 
 }
 
+.price-days {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+  color: var(--cyan);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.price img {
+  margin-right: 5px;
+}
+
 .attribution a { 
   color: hsl(228, 45%, 44%); 
 }

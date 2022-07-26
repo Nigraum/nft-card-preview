@@ -17,5 +17,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📝 Conhecimentos abordados
 
-- [x] Responsividade da aplicação com `@media`
 - [x] Uso de variáveis globais no `:root`
+- [x] Uso semântico do HTML

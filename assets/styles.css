@@ -41,7 +41,7 @@ body {
   border-radius: 10px;
 }
 
-.h3 {
+h3 {
   margin-top: 1.5rem;
   font-size: 20px;
   font-weight: 600px;
@@ -111,4 +111,12 @@ span {
 
 .attribution a { 
   color: hsl(228, 45%, 44%); 
+}
+
+.nft_image, h3, span {
+  cursor: pointer;
+}
+
+h3:hover, span:hover {
+  color: var(--cyan);
 }
